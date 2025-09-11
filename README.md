@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Juliana Braz
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Web`**
 
 Olá! Me chamo Juliana, tenho 31 anos e sou natural do Rio de Janeiro. Atualmente, curso Gestão da Tecnologia da Informação na UNESA. Sou apaixonada por tecnologia e estou em constante aprendizado, explorando áreas como desenvolvimento web, bancos de dados e segurança da informação. Aqui no GitHub, compartilho projetos, estudos e experiências ao longo da minha jornada na TI.
 
