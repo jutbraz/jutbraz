@@ -33,13 +33,13 @@
 <!-- Redes -->
 <div align="center">
   <a href="https://www.instagram.com/juulianatoni/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=282a36">
+    <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=282a36">
   </a>
   <a href="https://www.linkedin.com/in/juliana-ti/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-6272a4?style=for-the-badge&logo=linkedin&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Linkedin-6272a4?style=for-the-badge&logo=linkedin&logoColor=ffffff">
   </a> 
   <a href="mailto:julianatonibraz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36">
+    <img src="https://img.shields.io/badge/-Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36">
   </a>
 </div>
 
