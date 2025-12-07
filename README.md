@@ -9,10 +9,6 @@ Estudante de Gestão da Tecnologia da Informação, explorando caminhos entre de
 <br>
 Aqui você vai encontrar meus testes, minhas ideias e meus primeiros projetos enquanto trilho minha jornada no mundo tech.
 </p>
-
----
-
-### 🔮 Minhas stacks (até agora!)
 <p align="center">
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -44,8 +40,10 @@ Aqui você vai encontrar meus testes, minhas ideias e meus primeiros projetos en
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jutbraz&show_icons=true&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats-mirror.vercel.app/api?username=jutbraz&show_icons=true&theme=dracula&hide_border=true"/>
 </p>
+
+
 
 
 
