@@ -57,16 +57,7 @@
   />
 </div><br>
 
-<div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/danielbped/danielbped/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<div align="center" style="color:#f8f8f2;">
-  <p>Feito com <span style="color:#ff79c6;">♥</span> e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats" style="color:#bd93f9;">Anurag Hazra</a> e <a href="https://github.com/rafaballerini" style="color:#bd93f9;">Rafaella Ballerini</a></p>
-</div>
 
 
 
