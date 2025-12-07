@@ -1,61 +1,54 @@
-<h1> 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=BD93F9&random=false&width=435&lines=Ol%C3%A1%2C+pessoal+!+%3D)" alt="Typing SVG" />
-  </a> 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=FF79C6&width=600&lines=Construindo+meu+futuro+em+TI%2C+um+c%C3%B3digo+por+vez.">
 </h1>
 
-<p>
+<h2 align="center">Eu sou a Juliana Braz 👩🏻‍💻✨</h2>
 
-<div>
-  
-  <h1 align="center">
-    Oi, tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/juliana-ti/" style="color:#ff79c6;">Juliana Braz👩🏻‍💻</a>
-  </h1>
-  
-  <p align="center" style="color:#f8f8f2;">
-    Cursando <strong style="color:#f1fa8c;">Gestão da Tecnologia da Informação</strong>, em constante evolução por meio de especializações e práticas que unem desenvolvimento e gestão de soluções tecnológicas. 🚀
-  </p>
-  
-</div>
+<p align="center">
+Estudante de Gestão da Tecnologia da Informação, explorando caminhos entre desenvolvimento web, lógica, arquitetura de soluções e boas práticas.  
+<br>
+Aqui você vai encontrar meus testes, minhas ideias e meus primeiros projetos enquanto trilho minha jornada no mundo tech.
+</p>
 
-<div align="center" valign="top"><br>
-  
-  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" style="filter:hue-rotate(260deg)">          
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="filter:hue-rotate(260deg)">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter:hue-rotate(260deg)">
-</div><br>
+---
 
-<!-- Redes -->
-<div align="center">
-  <a href="https://www.instagram.com/juulianatoni/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=282a36">
-  </a>
-  <a href="https://www.linkedin.com/in/juliana-ti/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-6272a4?style=for-the-badge&logo=linkedin&logoColor=ffffff">
-  </a> 
-  <a href="mailto:julianatonibraz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36">
-  </a>
-</div>
+### 🔮 Minhas stacks (até agora!)
+<p align="center">
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
 
-<!-- GitHub Stats -->
-<div align="center"><br>
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=jutbraz&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&bg_color=282a36"
-  />
-  <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jutbraz&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36&hide_border=false"
-  />
-</div><br>
+---
+
+### 🌙 Um resumo rápido sobre mim
+- Lover de tecnologia desde sempre  
+- Aprendo rápido e adoro desafios  
+- Busco sempre unir lógica + experiência do usuário  
+- E sim: tenho um fraco por temas dark, interfaces limpas e código organizado
+
+---
+
+### 🌐 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/juliana-ti/"><img height="30" src="https://img.shields.io/badge/LinkedIn-6272a4?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+  <a href="mailto:julianatonibraz@gmail.com"><img height="30" src="https://img.shields.io/badge/Gmail-50fa7b?style=for-the-badge&logo=gmail&logoColor=282a36"></a>
+</p>
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jutbraz&show_icons=true&theme=dracula"/>
+</p>
+
+
+
 
 
 
